@@ -13,7 +13,7 @@
 div {
     background: linear-gradient(45deg, transparent 45%, red 55%, transparent 60%);
     height: 10px;
-	background-size: 10px 10px
+    background-size: 10px 10px
 }
 ```
 
@@ -26,7 +26,7 @@ div {
 div {
     background: linear-gradient(45deg, transparent 45%, red 55%, transparent 60%),linear-gradient(135deg, transparent 45%, red 55%, transparent 60%);
     height: 10px;
-	background-size: 10px 10px  
+    background-size: 10px 10px  
 }
 ```
 
@@ -39,7 +39,7 @@ div {
 div {
     background: linear-gradient(45deg, transparent 45%, red 55%, transparent 60%),linear-gradient(135deg, transparent 45%, red 55%, transparent 60%);
     height: 5px;
-	background-size: 10px 10px  
+    background-size: 10px 10px  
 }
 ```
 
