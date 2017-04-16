@@ -58,7 +58,7 @@ div {
 }
 ```
 
-第二步：通过background-size设置背景图案长宽刚好等于圆的直径来铺面当前div
+第二步：通过background-size设置背景图案长宽刚好等于圆的直径来铺满当前div
 
 ```html
 <div>
