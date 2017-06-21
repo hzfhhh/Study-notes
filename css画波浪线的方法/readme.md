@@ -54,7 +54,7 @@ div {
 div {
   width: 100%;
   height: 20px;
-  background-image: radial-gradient(circle, transparent, transparent 9px, orange 10px, orange 10px, transparent 10px, transparent);
+  background-image: radial-gradient(circle, transparent 9px, orange 10px, transparent 10px);
 }
 ```
 
@@ -67,7 +67,7 @@ div {
 div {
   width: 100%;
   height: 20px;
-  background-image: radial-gradient(circle, transparent, transparent 9px, orange 10px, orange 10px, transparent 10px, transparent);
+  background-image: radial-gradient(circle, transparent 9px, orange 10px,transparent 10px);
   background-size: 20px 20px;
 }
 ```
@@ -81,7 +81,7 @@ div {
 div {
   width: 100%;
   height: 10px;
-  background-image: radial-gradient(circle, transparent, transparent 9px, orange 10px, orange 10px, transparent 10px, transparent);
+  background-image: radial-gradient(circle, transparent 9px, orange 10px,transparent 10px);
   background-size: 20px 20px;
 }
 ```
